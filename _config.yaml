@@ -16,7 +16,7 @@ show_excerpts: true
 # About/contact
 #
 author:
-  name: Hoelli
+  #name: Hoelli
   email: "webkontakt@rollenspiel-loerrach.de"
   url: https://hoelli4c.github.io/rollenspiel-loerrach/
 
