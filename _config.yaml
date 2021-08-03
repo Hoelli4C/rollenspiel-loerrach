@@ -13,6 +13,7 @@ description: Homepage for Rollenspiel Lörrach.
 #remote_theme: zivong/jekyll-theme-hydure
 #remote_theme: poole/hyde
 remote_theme: fongandrew/hydeout
+paginate: 5
 
 # About/contact
 #
