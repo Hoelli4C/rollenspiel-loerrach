@@ -1,5 +1,7 @@
 ---
-layout: home
+layout: page
+title: About
+permalink: /about/
 ---
 
 Hallo, du bist auf den Seiten von “Rollenspiel Lörrach” gelandet. Wir, das heisst die Organisatoren hinter rollenspiel-loerrach.de, sind ein paar Freunde, die seit vielen Jahren ihrem Hobby nachgehen (dem Rollenspiel).
