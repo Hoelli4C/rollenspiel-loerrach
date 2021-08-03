@@ -1,11 +1,19 @@
+# Setup
+#
 title: Rollenspiel-Lörrach
+tagline: We have more fun
+description: Homepage for Rollenspiel Lörrach.
 
+# Theme
+#
 remote_theme:  jekyll/minima 
-
 theme: minima
 minima:
   skin: dark
 
+# About/contact
+#
 author:
   name: Hoelli
-  email: "thomas@rollenspiel-loerrach.de"
+  email: "webkontakt@rollenspiel-loerrach.de"
+  url: https://hoelli4c.github.io/rollenspiel-loerrach/
