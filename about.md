@@ -13,3 +13,5 @@ Wir veranstalten in der Regel einmal pro Monat unser Rollenspieltreff “LoeRoTr
 Das “LoeRoTre” ist unser monatlich statt findendes Rollenspieltreff. Auf dem Treff spielen wir hautpsächlich Pen&Paper Rollenspiele (wie z.Bsp. DSA oder Shadowrun), es hat aber auch jeder die Möglichkeit sich zu einer Runde Tabletop oder Magic zu verabreden.
 
 Wir hatten uns Jahrelang in der Alten Feuerwache Lörrach (bei der Evang. Stadtkirche) getroffen, seit August 2016 sind wir immer ab 14°° Uhr in der Dieter-Kaltenbach-Stiftung, Konrad-Adenauer-Straße 22, 79540 Lörrach (siehe Termine)
+
+[Dieter-Kaltenbach-Stiftung](https://www.openstreetmap.org/?mlat=47.59693&amp;mlon=7.66204#map=18/47.59693/7.66204&amp;layers=N)
