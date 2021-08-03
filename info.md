@@ -20,3 +20,7 @@ Du findest uns ab 14°° Uhr in der Dieter-Kaltenbach-Stiftung, Konrad-Adenauer-
 ### LoeRoWo - Unser Wochenende ###
 
 Unser LoeRoWo findet in der Regel im Haus Sonnhalde in Lenzkirch-Kappel statt. Die genauen Informationen dazu finden sich immer in der Anmeldung.
+
+### Erreiche ich euch noch über andere Wege? ##
+
+Ja natürlich. Wir haben einen eigenen <a href="https://discord.gg/JDf9mJH" target="_blank">Discord Server</a>. Schau doch vorbei!
