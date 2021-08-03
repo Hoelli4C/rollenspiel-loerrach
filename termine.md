@@ -2,7 +2,6 @@
 layout: page
 title: Termine
 permalink: /termine/
-order: 2
 ---
 ## Termine 2021 ##
 
