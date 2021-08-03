@@ -15,7 +15,7 @@ Das “LoeRoTre” ist unser monatlich statt findendes Rollenspieltreff. Auf dem
 
 Du findest uns ab 14°° Uhr in der Dieter-Kaltenbach-Stiftung, Konrad-Adenauer-Straße 22, 79540 Lörrach.
 
-[Dieter-Kaltenbach-Stiftung](https://www.openstreetmap.org/?mlat=47.59693&amp;mlon=7.66204#map=18/47.59693/7.66204&amp;layers=N)  {:target="blank"}
+[Dieter-Kaltenbach-Stiftung](https://www.openstreetmap.org/?mlat=47.59693&amp;mlon=7.66204#map=18/47.59693/7.66204&amp;layers=N) {:target="_blank"}
 
 ### LoeRoWo - Unser Wochenende ###
 
