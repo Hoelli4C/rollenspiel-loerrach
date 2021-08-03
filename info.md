@@ -1,14 +1,14 @@
 ---
 layout: page
-title: About
-permalink: /about/
+title: Info
+permalink: /info/
 ---
 ## Das wichtigste in Kürze ##
 Hallo, du bist auf den Seiten von “Rollenspiel Lörrach” gelandet. Wir, das heisst die Organisatoren hinter rollenspiel-loerrach.de, sind ein paar Freunde, die seit vielen Jahren ihrem Hobby nachgehen (dem Rollenspiel).
 
 Diese Website soll "quick and dirty" dabei helfen die wichtigsten Informationen bereit zu stellen. In den nächsten Tagen/Wochen wird der Inhalt noch ueberarbeitet bzw ergaenzt.
 
-### Unser Treff ###
+### LoeRoTre - Unser Treff ###
 Wir veranstalten in der Regel einmal pro Monat unser Rollenspieltreff “LoeRoTre”. Die Termine und Zeiten könnt ihr unter “Termine” nachlesen. Des weitern veranstalten wir zweimal im Jahr ein Rollenspiel Wochenende “LoeRoWo” in einer Hütte bzw. einem Ferienhaus im Schwarzwald.
 
 Das “LoeRoTre” ist unser monatlich statt findendes Rollenspieltreff. Auf dem Treff spielen wir hautpsächlich Pen&Paper Rollenspiele (wie z.Bsp. DSA oder Shadowrun), es hat aber auch jeder die Möglichkeit sich zu einer Runde Tabletop oder Magic zu verabreden.
@@ -17,6 +17,6 @@ Du findest uns ab 14°° Uhr in der Dieter-Kaltenbach-Stiftung, Konrad-Adenauer-
 
 [Dieter-Kaltenbach-Stiftung](https://www.openstreetmap.org/?mlat=47.59693&amp;mlon=7.66204#map=18/47.59693/7.66204&amp;layers=N)
 
-### Unser Wochenende ###
+### LoeRoWo - Unser Wochenende ###
 
-Das LoeRoWo
+Unser LoeRoWo findet in der Regel im Haus Sonnhalde in Lenzkirch-Kappel statt. Die genauen Informationen dazu finden sich immer in der Anmeldung.
