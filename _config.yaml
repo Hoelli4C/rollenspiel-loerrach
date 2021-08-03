@@ -10,8 +10,8 @@ description: Homepage for Rollenspiel Lörrach.
 #theme: minima
 #minima:
 #  skin: dark
-#remote_theme: zivong/jekyll-theme-hydure
-remote_theme: poole/hyde 
+remote_theme: zivong/jekyll-theme-hydure
+#remote_theme: poole/hyde
 
 # About/contact
 #
