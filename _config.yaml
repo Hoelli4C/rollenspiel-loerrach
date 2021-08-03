@@ -8,9 +8,9 @@ description: Homepage for Rollenspiel Lörrach.
 #
 #remote_theme:  jekyll/minima 
 #theme: minima
+#minima:
+#  skin: dark
 remote_theme: zivong/jekyll-theme-hydure
-minima:
-  skin: dark
 
 # About/contact
 #
