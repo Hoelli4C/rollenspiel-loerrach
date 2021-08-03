@@ -25,3 +25,7 @@ header_pages:
   - info.md
   - termine.md
   - impressum.md
+
+# Options
+#
+show_excerpts: true
