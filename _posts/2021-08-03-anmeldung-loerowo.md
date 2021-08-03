@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Unser neues ZuHause"
+title:  "Anmeldung LoeRoWo"
 ---
 # Anmeldung LoeRoWo
 Die Anmeldung zu unserem LoRoWo ist online.
