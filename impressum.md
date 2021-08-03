@@ -10,4 +10,4 @@ Thomas Henneberger
 Nutzingerstr 27
 79541 Lörrach
 
-Kontakt per E-Mail: thomas punkt henneberger at rollenspiel-loerrach.de
+Kontakt per E-Mail: webkontakt@rollenspiel-loerrach.de
