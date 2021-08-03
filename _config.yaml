@@ -18,3 +18,10 @@ author:
   name: Hoelli
   email: "webkontakt@rollenspiel-loerrach.de"
   url: https://hoelli4c.github.io/rollenspiel-loerrach/
+
+# Header Pages
+#
+header_pages:
+  - info.md
+  - termine.md
+  - impressum.md
