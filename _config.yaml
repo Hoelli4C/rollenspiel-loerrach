@@ -4,13 +4,14 @@ title: Rollenspiel-Lörrach
 tagline: We have more fun
 description: Homepage for Rollenspiel Lörrach.
 
-# Themes and Plugins
+# Style/Theme/Look
 #
 plugins:
   - jekyll-remote-theme
 remote_theme:  jekyll/minima 
 minima:
   skin: dark
+show_excerpts: true
 
 # About/contact
 #
@@ -25,7 +26,3 @@ header_pages:
   - info.md
   - termine.md
   - impressum.md
-
-# Options
-#
-show_excerpts: true
