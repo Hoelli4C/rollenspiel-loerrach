@@ -8,10 +8,12 @@ description: Homepage for Rollenspiel Lörrach.
 #
 plugins:
   - jekyll-remote-theme
-remote_theme:  jekyll/minima 
-minima:
-  skin: dark
+remote_theme: pages-themes/midnight
+#remote_theme:  jekyll/minima 
+#minima:
+#  skin: dark
 show_excerpts: true
+show_downloads: false
 
 # About/contact
 #
