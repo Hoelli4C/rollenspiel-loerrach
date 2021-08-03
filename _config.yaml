@@ -1,3 +1,9 @@
+title: Rollenspiel-Lörrach
+
 theme: minima
 minima:
   skin: dark
+
+author:
+  name: Hoelli
+  email: "thomas@rollenspiel-loerrach.de"
