@@ -2,6 +2,9 @@
 layout: page
 title: Info
 permalink: /info/
+image:
+  background: background.png
+
 order: 1
 ---
 ## Das wichtigste in Kürze ##
