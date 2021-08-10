@@ -3,8 +3,6 @@ layout: page
 title: Info
 permalink: /info/
 ---
-![](/daworm.png)
-
 ## Das wichtigste in Kürze ##
 Hallo, du bist auf den Seiten von “Rollenspiel Lörrach” gelandet. Wir, das heisst die Organisatoren hinter rollenspiel-loerrach.de, sind ein paar Freunde, die seit vielen Jahren ihrem Hobby nachgehen (dem Rollenspiel).
 
