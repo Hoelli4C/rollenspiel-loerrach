@@ -38,3 +38,7 @@ permalink: /termine/
 * 08.10. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
 * 12.11. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
 * 10.12. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
+
+### LoeRoWo ###
+* LoeRoWo XLV vom 27.04. - 01.05.2022 im Haus Sonnhalde
+* LoeRoWo XLVI vom 12.10. - 16.10.2022 im Haus Sonnhalde
