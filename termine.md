@@ -26,7 +26,7 @@ permalink: /termine/
 ## Termine 2022 ##
 
 ### LoeRoTre (2.ter SA des Monats) ###
-* 08.01. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
+* 08.01. - Fällt aus (Corona)
 * 12.02. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
 * 12.03. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
 * 09.04. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
