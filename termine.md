@@ -10,7 +10,7 @@ permalink: /termine/
 * 12.02. - Fällt aus (Corona)
 * 12.03. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
 * 09.04. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
-* 14.05. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
+* 14.05. - Fällt aus (Räume wurden doppelt belegt)
 * 11.06. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
 * 09.07. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
 * 13.08. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
