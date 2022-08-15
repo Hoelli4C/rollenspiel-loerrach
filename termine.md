@@ -22,3 +22,9 @@ permalink: /termine/
 ### LoeRoWo ###
 * LoeRoWo XLV vom 27.04. - 01.05.2022 im Haus Sonnhalde
 * LoeRoWo XLVI vom 12.10. - 16.10.2022 im Haus Sonnhalde
+
+## Termine 2023 ##
+
+### LoeRoWo ###
+* LoeRoWo XLVII vom 26.04. - 01.05.2023 im Haus Sonnhalde
+* LoeRoWo XLVIII vom 29.09. - 03.10.2023 im Haus Sonnhalde
