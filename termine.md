@@ -21,4 +21,4 @@ permalink: /termine/
 
 ### LoeRoWo 2023 ###
 * LoeRoWo XLVII vom 26.04. - 01.05.2023 im Haus Sonnhalde in Lenzkirch
-* LoeRoWo XLVIII vom 29.09. - 03.10.2023 im Haus Sonnhalde in Lenzkirch
+* LoeRoWo XLVIII vom 28.09. - 03.10.2023 im Haus Sonnhalde in Lenzkirch
