@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "LoeRoTre im November fällt aus"
+title:  "LoeRoTre im O fällt aus"
 ---
 **Treff fällt aus**
 
