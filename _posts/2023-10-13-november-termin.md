@@ -2,7 +2,7 @@
 layout: post
 title:  "LoeRoTre im November fällt aus"
 ---
-***Treff fällt aus
+**Treff fällt aus**
 
 Hallo zusammen 
 
