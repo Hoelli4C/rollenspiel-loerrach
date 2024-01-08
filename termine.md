@@ -3,27 +3,22 @@ layout: page
 title: Termine
 permalink: /termine/
 ---
-## Termine 2023 ##
-
-### LoeRoTre 2023 (2.ter SA des Monats) ###
-* 14.01. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
-* 11.02. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
-* 11.03. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
-* 08.04. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
-* 13.05. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
-* 10.06. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
-* 08.07. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
-* 12.08. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
-* 09.09. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
-* 14.10. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
-* 11.11. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
-* 09.12. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
-
-### LoeRoWo 2023 ###
-* LoeRoWo XLVII vom 26.04. - 01.05.2023 im Haus Sonnhalde in Lenzkirch
-* LoeRoWo XLVIII vom 28.09. - 03.10.2023 im Haus Sonnhalde in Lenzkirch
 
 ## Termine 2024 ##
+
+### LoeRoTre 2024 (2.ter SA des Monats) ###
+* 13.01. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
+* 10.02. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
+* 09.03. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
+* 13.04. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
+* 11.05. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
+* 08.06. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
+* 06.07. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
+* 10.08. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
+* 14.09. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
+* 12.10. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
+* 09.11. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
+* 14.12. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
 
 ### LoeRoWo 2024 ###
 * LoeRoWo XLIX vom 30.04. - 05.05.2024 im Haus Sonnhalde in Lenzkirch
