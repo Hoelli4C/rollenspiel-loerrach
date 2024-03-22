@@ -21,5 +21,9 @@ permalink: /termine/
 * 14.12. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
 
 ### LoeRoWo 2024 ###
-* LoeRoWo XLIX vom 30.04. - 05.05.2024 im Haus Sonnhalde in Lenzkirch
-* LoeRoWo L vom 02.10. - 06.10.2024 im Haus Sonnhalde in Lenzkirch
+* LoeRoWo L vom 30.04. - 05.05.2024 im Haus Sonnhalde in Lenzkirch
+* LoeRoWo LI vom 02.10. - 06.10.2024 im Haus Sonnhalde in Lenzkirch
+
+### LoeRoWo 2025 ###
+* LoeRoWo LII vom 30.04. - 04.05.2025 im Haus Sonnhalde in Lenzkirch
+* LoeRoWo LIII vom 02.10. - 05.10.2025 im Haus Sonnhalde in Lenzkirch
