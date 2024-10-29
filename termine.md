@@ -25,5 +25,9 @@ permalink: /termine/
 * LoeRoWo LI vom 02.10. - 06.10.2024 im Haus Sonnhalde in Lenzkirch
 
 ### LoeRoWo 2025 ###
-* LoeRoWo LII vom 30.04. - 04.05.2025 im Haus Sonnhalde in Lenzkirch
-* LoeRoWo LIII vom 02.10. - 05.10.2025 im Haus Sonnhalde in Lenzkirch
+* LoeRoWo LII vom 29.04. - 04.05.2025 im Haus Sonnhalde in Lenzkirch
+* LoeRoWo LIII vom 01.10. - 05.10.2025 im Haus Sonnhalde in Lenzkirch
+
+### LoeRoWo 2026 ###
+* LoeRoWo LIV vom 28.04. - 03.05.2026 im Haus Sonnhalde in Lenzkirch
+* LoeRoWo LV vom 22.09. - 27.09.2026 im Haus Sonnhalde in Lenzkirch
