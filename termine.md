@@ -6,9 +6,6 @@ permalink: /termine/
 
 ## Termine ##
 
-### LoeRoTre 2025 (2.ter SA des Monats) ###
-* 13.12. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
-
 ### LoeRoTre 2026 (2.ter SA des Monats) ###
 * 10.01. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
 * 07.02. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
