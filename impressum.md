@@ -3,10 +3,21 @@ layout: page
 title: Impressum
 permalink: /impressum/
 ---
-Angaben gemäß § 5 TMG
 
-Thomas Henneberger
-Nutzingerstr 27
-79541 Lörrach
+**Impressum**
+Rollenspiel Lörrach e.V.
+Zeppelinstraße 52
+79540 Lörrach
 
-Kontakt per E-Mail: webkontakt@rollenspiel-loerrach.de
+Telefon: +4915222640204
+E-Mail: rollenspiel.loerrach@gmail.com
+
+**Gemeinschaftlich vertretungsberechtigt:**
+
+1. Vorsitzender
+Alexander Sigmund
+Zeppelinstraße 52
+79540 Lörrach
+
+Registergericht: Amtsgericht Freiburg
+Registernummer: VR 703756
