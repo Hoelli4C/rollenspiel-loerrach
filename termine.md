@@ -11,7 +11,7 @@ permalink: /termine/
 * 07.02. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
 * 14.03. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
 * 11.04. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
-* 16.05. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
+* <del> 16.05. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung</del>
 * 13.06. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
 * 11.07. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
 * 08.08. - Ab 14 Uhr in der Dieter-Kaltenbach-Stiftung
